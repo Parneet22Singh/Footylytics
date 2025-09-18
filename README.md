@@ -35,5 +35,5 @@ The dataset comes from [FBref](https://fbref.com/en/), powered by **StatsBomb** 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/football-stats-analyzer.git
-cd football-stats-analyzer
+git clone https://github.com/Parneet22Singh/Footylytics.git
+cd Footylytics
